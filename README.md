@@ -14,5 +14,6 @@ Pour convertir en PDF j'imprime la page dans un fichier en retirant header et fo
 
 ## Contact
 
-* Danny SAUVAL : [sauvaldanny@gmail.com](mailto:sauvaldanny@gmail.com)
-https://www.linkedin.com/in/danny-sauval/
+* Mail : [sauvaldanny@gmail.com](mailto:sauvaldanny@gmail.com)
+* LinkedIn : https://www.linkedin.com/in/danny-sauval/
+* Twitter : https://twitter.com/DSauval
